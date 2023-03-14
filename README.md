@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @supapraisekb
-- 👀 I’m interested in ... UI/UX and Learning Software and application development
-- 🌱 I’m currently learning ... Front end design which include HTML 5, Css and JAvascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀  Learning Software and application development
+- 🌱 I’m currently learning Software Engineering at ALX_Africa
+- 💞️ I’m looking to collaborate on Web applications and commercial software development 
+- 📫 How to reach me Twitter: @supapraise linkedin:  https://www.linkedin.com/in/praisee
 
 <!---
 supapraisekb/supapraisekb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
