@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @supapraisekb
-- 👀  I'm interested in Software and applications development
-- 🌱 I’m currently learning Software Engineering at ALX_Africa
-- 💞️ I’m looking to collaborate on Web applications and commercial software development 
+- 👀  I'm interested in Software and applications development (Business Analysis and DevOps)
+-- 💞️ I’m looking to collaborate on Web applications and commercial software development 
 - 📫 How to reach me Twitter: https://www.twitter.com/@supapraise linkedin:  https://www.linkedin.com/in/praisee
 
 <!---
